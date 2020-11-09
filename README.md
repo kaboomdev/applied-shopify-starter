@@ -1,1 +1,1 @@
-applied-shopify-starter
+# Shopify Starter by Applied Labs
